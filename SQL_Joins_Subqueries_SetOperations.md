@@ -1,6 +1,5 @@
 # Joins
-Joins are used to connect and gain information from multiple tables at the same time
-Tables are connect to each other using what is known as a join predicate
+Joins are used to connect and gain information from multiple tables at the same time. Tables are connect to each other using what is known as a join predicate.
 There are different types of joins:
 * `(INNER) JOIN`
     * Used to return the values that only exist in both tables queried
