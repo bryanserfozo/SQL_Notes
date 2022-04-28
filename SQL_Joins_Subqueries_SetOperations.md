@@ -57,7 +57,7 @@ Set operations aggregate data together in ways different than joins
         * Combines columns of data vertically. Takes all the data from the first select and combines it with all the data from the second select without duplicates
     * `UNION ALL`
         * Very similar to `UNION`. The only difference is that `UNION ALL` includes duplicates.
-    * `INSERSECT`
+    * `INTERSECT`
         * Contains the intersection of the two selects. It will only return a column with values that both selects share.
     * `EXCEPT`
         * Sometimes called `MINUS` in other versions of SQL
